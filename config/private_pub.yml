@@ -1,7 +1,4 @@
 production:
-  server: "http://faye-gambit.herokuapp.com/faye"
-
-#this is the address of this heroku app once you’ve deployed it, plus the `/faye` extension.
-
+  server: "http://faye-gambit.herokuapp.com/faye"s
   secret_token: "94a23d511dc3828940af7decb285db9873b13c2c36a59d5e9bbdcd1b39115833"
   signature_expiration: 86400 # one day
